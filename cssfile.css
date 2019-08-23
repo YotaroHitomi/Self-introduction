@@ -1,0 +1,30 @@
+body{
+	background-color: skyblue;
+}
+
+#img{
+    width:150px;
+    border:solid white;
+    border-radius: 10%;
+    margin:40px 10px -30px 30px;
+}
+
+#myname{
+	color:black;
+	font-size:40px;
+	font-weight:bold;
+}
+
+.content{
+    background-color:white;
+    padding:60px 0px;
+}
+
+.p {
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.h2 {
+    margin-left: 30px;
+}
